@@ -227,7 +227,7 @@ html, body{ height: 100%; }
      position: absolute;
      left: 50%;
      top: 50%;
-     background-image: url(../images/loader-animation.gif);
+     background-image: url(images/loader-animation.gif);
      background-repeat: no-repeat;
      background-position: center;
      margin: -100px 0 0 -100px;
@@ -246,7 +246,7 @@ html, body{ height: 100%; }
 	bottom:20px;
 	right:40px;
 	display:none;			
-	background:url(../images/icon_top.png) no-repeat;
+	background:url(images/icon_top.png) no-repeat;
 }
 
 .scrollup:hover{
@@ -383,7 +383,7 @@ html, body{ height: 100%; }
 -------------------------------------------------------------------*/
 
 .banner{
-	background:url(/images/arrangement-traditional-indonesian-bakso.jpg) no-repeat center top;
+	background:url(images/arrangement-traditional-indonesian-bakso.jpg) no-repeat center top;
 	background-attachment:fixed;
 	background-size:cover;
 	height:100vh;
@@ -656,7 +656,7 @@ html, body{ height: 100%; }
     SPECIAL-MENU AREA
 -------------------------------------------------------------------*/
 .special-menu{
-	background:url(/images/assortment-traditional-indonesian-bakso.jpg) no-repeat center;
+	background:url(images/assortment-traditional-indonesian-bakso.jpg) no-repeat center;
 	background-attachment:fixed;
 	background-size:cover;
 	position:relative;
@@ -990,7 +990,7 @@ html, body{ height: 100%; }
 -------------------------------------------------------------------*/
 
 .blog-main{
-	background:url(../images/blog_bg.jpg) no-repeat center;
+	background:url(images/blog_bg.jpg) no-repeat center;
 	background-attachment:fixed;
 	background-size:cover;
 	position:relative;
@@ -1002,7 +1002,7 @@ html, body{ height: 100%; }
 -------------------------------------------------------------------*/
 
 .pricing-main{
-	background:url(../images/arrangement-traditional-indonesian-bakso.jpg) no-repeat center ;
+	background:url(images/arrangement-traditional-indonesian-bakso.jpg) no-repeat center ;
 	background-size:cover;
 }
 
@@ -1260,7 +1260,7 @@ textarea:focus, input:focus, select:focus, .bootstrap-select .dropdown-toggle:fo
 }
 
 .footer-news{
-	background:url(../images/assortment-traditional-indonesian-bakso.jpg) no-repeat center;
+	background:url(images/assortment-traditional-indonesian-bakso.jpg) no-repeat center;
 	background-attachment:fixed;
 	background-size:cover;
 	position:relative;
